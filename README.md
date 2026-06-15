@@ -39,5 +39,5 @@
 <br>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=NafisUlAmanSaadman&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="NafisUlAmanSaadman's GitHub Stats" height="160" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=NafisUlAmanSaadman&theme=tokyonight" alt="NafisUlAmanSaadman's Streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NafisUlAmanSaadman&show_icons=true&theme=tokyonight&rank_icon=github" alt="NafisUlAmanSaadman's GitHub Stats" height="160" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=NafisUlAmanSaadman&theme=tokyonight" alt="NafisUlAmanSaadman's Streak" height="160" />
 </p>
