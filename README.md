@@ -38,7 +38,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NafisUlAmanSaadman&show_icons=true&theme=tokyonight&rank_icon=github" alt="NafisUlAmanSaadman's GitHub Stats" height="195" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NafisUlAmanSaadman&theme=tokyonight" alt="NafisUlAmanSaadman's Streak" height="195" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NafisUlAmanSaadman&show_icons=true&theme=tokyonight&rank_icon=github" alt="NafisUlAmanSaadman's GitHub Stats" height="160" />&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=NafisUlAmanSaadman&theme=tokyonight" alt="NafisUlAmanSaadman's Streak" height="160" />
 </p>
