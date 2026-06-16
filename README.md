@@ -7,15 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NafisUlAmanSaadman&label=Profile%20views&color=0e75b6&style=flat" alt="NafisUlAmanSaadman" /> 
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></p>
 
-<h3 align="left">About Me: 👨‍💻</h3>
-<ul>
-  <li>🎓 <b>Lifelong Learner:</b> Undergraduate Software Engineering student always exploring the bleeding edge of tech and research.</li>
-  <li>🧠 <b>Innovator:</b> Deeply fascinated by Artificial Intelligence, Quantum Computing, and their potential to shape the future.</li>
-  <li>🏗️ <b>Builder:</b> Passionate about scalable database architectures, local AI, and privacy-first applications.</li>
-  <li>🎧 <b>Audiophile:</b> When I'm not coding, I'm analyzing sound profiles and the technical specs of high-fidelity budget IEMs!</li>
-</ul>
-
-<br>
+<h3 align="left">👨‍💻 About Me</h3> <ul> <li>🎓 <b>Software Engineering Undergraduate</b> with a passion for innovation, research, and lifelong learning.</li> <li>🧠 <b>Future-Focused Thinker</b> — Exploring Artificial Intelligence, Quantum Computing, and the technologies redefining our world.</li> <li>🏗️ <b>Engineer & Builder</b> — Designing scalable systems, privacy-first applications, and local AI experiences.</li> <li>⚡ <b>Technology Enthusiast</b> — Fascinated by backend engineering, databases, distributed systems, and automation.</li> <li>🎧 <b>Audiophile</b> — Constantly chasing exceptional sound and discovering hidden gems in the IEM world.</li> <li>🚀 <b>Mission</b> — To build meaningful technology that is intelligent, accessible, and impactful.</li> </ul>
 
 <h3 align="left">Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="50" width="40">
  </h3>     
